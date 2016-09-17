@@ -1,0 +1,177 @@
+# How Katie Ledecky Stacks Up Against Male Swimmers
+
+```{r knitr_options, include=FALSE}
+library(knitr)
+opts_chunk$set(out.width="800px", dpi=300)
+```
+
+Data and [R](https://www.r-project.org/) code for the analysis supporting [this August 22, 2016 BuzzFeed News article](https://www.buzzfeed.com/peteraldhous/katie-ledecky-superhuman) on the gender gap in swimming and track-and-field athletics.
+
+Inspired by the Katie Ledecky's performances at the 2016 Olympics in Rio de Janeiro, and the [comment](http://www.usaswimming.org/ViewNewsArticle.aspx?TabId=0&itemid=13563&mid=14491) from a male teammate that he’d seen her “break a lot of guys in practice,” this analysis examined the sporting gender gap by looking at gold medal performances over Olympic history and contemporary world records.
+
+Gender gaps are given as percentages by which the best woman's performance lags behind the best man's. 
+
+**For races:**
+
+`100 - (Men's speed in meters per second / women's speed in meters * 100)`
+
+**For field events:**
+
+`100 - (Men's distance or height in meters / women's distance or height in meters * 100)`
+
+The calculated gender gaps all scale between between 0% and a theoretical maximum of 100%.
+
+The analysis considers only events where performances are directly comparable for men and women -- so events like throws (where the men’s projectiles are heavier), are excluded. The historical Olympics analysis considers modern events only.
+
+## Data
+
+#### Olympic history
+
+Data from the [International Olympic Committee](https://www.olympic.org/).
+
+- `olympic_athletics_men.csv` 
+- `olympic_athletics_women.csv`
+- `olympic_swimming_men.csv`
+- `olympic_swimming_women.csv`
+
+#### Contemporary world records
+
+World records on August 22, 2016; data from [FINA](http://www.fina.org), the international swimming association, the [International Association of Athletics Federations](https://www.iaaf.org/), and the [International Olympic Committee](https://www.rio2016.com/en/records) for records set during the Rio Games.
+
+- `wr_swimming_men.csv`
+- `wr_swimming_women.csv`
+- `wr_track_men.csv` 
+- `wr_track_women.csv`
+- `wr_field_men.csv`
+- `wr_field_women.csv`
+
+The following fields are used to calculate gender gaps:
+
+- `Time_S` Time in seconds, for a race.
+- `Distance` Distance in meters, for a race.
+- `Mark` Distance or height in meters, for jumps.
+
+### Olympic history
+
+#### Data preparation
+
+```{r, results="hide", warning=FALSE, message=FALSE}
+# load required packages
+library(dplyr)
+library(readr)
+
+# import data
+olympic_swimming_women <- read_csv("data/olympic_swimming_women.csv")
+olympic_swimming_men <- read_csv("data/olympic_swimming_men.csv")
+olympic_athletics_women <- read_csv("data/olympic_athletics_women.csv")
+olympic_athletics_men <- read_csv("data/olympic_athletics_men.csv")
+
+# join women's to men's swimming data, calculate gender gap
+olympic_swimming_gap <- full_join(olympic_swimming_women, olympic_swimming_men, by=c("Event","Year")) %>%
+  mutate(Speed.x=Distance.x/Time_S.x,
+         Speed.y=Distance.y/Time_S.y,
+         Gap=100-(Speed.x/Speed.y*100))
+
+# join women's to men's athletics data
+olympic_athletics_gap <- full_join(olympic_athletics_women, olympic_athletics_men, by=c("Event","Year"))
+
+# separate into track and field, calculate gender gaps
+olympic_track_gap <- olympic_athletics_gap %>%
+  filter(!is.na(Distance.x)) %>%
+  mutate(Speed.x=Distance.x/Time_S.x,
+         Speed.y=Distance.y/Time_S.y,
+         Gap=100-(Speed.x/Speed.y*100))
+  
+olympic_field_gap <- olympic_athletics_gap %>%
+  filter(is.na(Distance.x)) %>%
+  mutate(Gap=100-(Mark.x/Mark.y*100))
+
+# recombine into single data frame
+olympic_athletics_gap <- bind_rows(olympic_track_gap,olympic_field_gap)
+
+```
+
+#### Charts
+
+The lines on the two charts that follow are drawn by [loess regression](http://www.tandfonline.com/doi/abs/10.1080/01621459.1979.10481038) using the `geom_smooth` function in the [ggplot2](http://docs.ggplot2.org/current/) package with its default `span` setting of `0.75`. The charts were manually annotated for publication.
+
+```{r, results="hide", warning=FALSE, message=FALSE}
+# load required package
+library(ggplot2)
+
+# swimming gender gap chart
+ggplot(olympic_swimming_gap, aes(x=Year, y=Gap)) + 
+  geom_point(size=4,alpha=0.5) + 
+  geom_smooth(se = FALSE, color = "blue") + 
+  theme_minimal() +
+  theme(text=element_text(size=22)) +
+  theme(axis.title = element_text(size=16)) +
+  ylim(c(25,3)) +
+  ylab("Gender gap (%)") +
+  xlab("")
+
+# track and field gender gap chart
+ggplot(olympic_athletics_gap, aes(x=Year, y=Gap)) + 
+  geom_point(size=4,alpha=0.5) + 
+  geom_smooth(se = FALSE, color = "red") + 
+  theme_minimal() +
+  theme(text=element_text(size=22)) +
+  theme(axis.title = element_text(size=16)) +
+  ylim(c(25,3)) +
+  ylab("Gender gap (%)") +
+  xlab("")
+
+```
+
+### Contemporary world records
+
+#### Data preparation
+
+```{r, results="hide", warning=FALSE, message=FALSE}
+
+# import data
+wr_swimming_men <- read_csv("data/wr_swimming_men.csv")
+wr_swimming_women <- read_csv("data/wr_swimming_women.csv")
+wr_track_men <- read_csv("data/wr_track_men.csv")
+wr_track_women <- read_csv("data/wr_track_women.csv")
+wr_field_men <- read_csv("data/wr_field_men.csv")
+wr_field_women <- read_csv("data/wr_field_women.csv")
+
+# join women's to men's swimming data, calculate gender gap
+wr_swimming_gap <- full_join(wr_swimming_women, wr_swimming_men, by="Event") %>%
+  mutate(Speed.x=Distance.x/Time_S.x,
+         Speed.y=Distance.y/Time_S.y,
+         Gap=100-(Speed.x/Speed.y*100),
+         Type="Swimming")
+
+# join women's to men's track data, calculate gender gap
+wr_track_gap <- full_join(wr_track_women, wr_track_men, by="Event") %>%
+  mutate(Speed.x=Distance.x/Time_S.x,
+         Speed.y=Distance.y/Time_S.y,
+         Gap=100-(Speed.x/Speed.y*100),
+         Type="Track and Field")
+
+# join women's to men's field data, calculate gender gap
+wr_field_gap <- full_join(wr_field_women, wr_field_men, by="Event") %>%
+  mutate(Gap=100-(Mark.x/Mark.y*100),
+         Type="Track and Field")
+
+# combine into a single data frame
+wr_combined_gap <- bind_rows(wr_swimming_gap,wr_track_gap,wr_field_gap)
+```
+
+#### Chart
+
+```{r, results="hide", warning=FALSE, message=FALSE}
+ggplot(wr_combined_gap, aes(x=Type,y=Gap,color=Type)) +
+  theme_minimal() +
+  theme(text=element_text(size=22)) +
+  theme(axis.title = element_text(size=16)) +
+  geom_jitter(size=5, alpha = 0.5, width = 0.4) +
+  scale_color_manual(values=c("blue","red")) +
+  ylim(c(20,0)) +
+  guides(color=FALSE) +
+  ylab("Gender gap (%)") + xlab("")
+```
+
+For publication, this chart was edited, manually adjusting the horizontal position of points to minimize overlap, and annotated.

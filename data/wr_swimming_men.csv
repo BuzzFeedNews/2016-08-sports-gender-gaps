@@ -1,0 +1,21 @@
+Event,Gender,Participant,Country,Venue,Date,Distance,Time_S
+50m freestyle,mens,Cesar Cielo,BRA,Sao Paulo (BRA),2009-12-18,50,20.91
+100m freestyle,mens,Cesar Cielo,BRA,Rome (ITA),2009-07-30,100,46.91
+200m freestyle,mens,Paul Biedermann,GER,Rome (ITA),2009-07-28,100,102
+400m freestyle,mens,Paul Biedermann,GER,Rome (ITA),2009-07-26,400,220.07
+800m freestyle,mens,Lin Zhang,CHN,Rome (ITA),2009-07-29,800,452.12
+1500m freestyle,mens,Yang Sun,CHN,London (GBR),2012-08-04,1500,871.02
+50m backstroke,mens,Liam Tancock,GBR,Rome (ITA),2009-08-02,50,24.04
+100m backstroke,mens,Ryan Murphy,USA,Rio de Janeiro (BRA),2016-08-13,100,51.85
+200m backstroke,mens,Aaron Peirsol,USA,Rome (ITA),2009-07-31,200,111.92
+50m breaststroke,mens,Adam Peaty,GBR,Kazan (RUS),2015-08-04,50,26.42
+100m breaststroke,mens,Adam Peaty,GBR,Rio de Janeiro (BRA),2016-08-07,100,57.13
+200m breaststroke,mens,Akihiro Yamaguchi,JPN,Gifu (JPN),2012-09-15,200,127.01
+50m butterfly,mens,Rafael Munoz,ESP,Malaga (ESP),2009-04-05,50,22.43
+100m butterfly,mens,Michael Phelps,USA,Rome (ITA),2009-08-01,100,49.82
+200m butterfly,mens,Michael Phelps,USA,Rome (ITA),2009-07-29,200,111.51
+200m ind. Medley,mens,Ryan Lochte,USA,Shanghai (CHN),2011-07-28,200,114
+400m ind. Medley,mens,Michael Phelps,USA,Beijing (CHN),2008-08-10,400,243.84
+4x100m freestyle,mens,United States,USA,Beijing (CHN),2008-08-11,400,188.24
+4x200m freestyle,mens,United States,USA,Rome (ITA),2009-07-31,800,418.55
+4x100m medley,mens,United States,USA,Rome (ITA),2009-08-02,100,207.28

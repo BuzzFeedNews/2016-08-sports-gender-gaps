@@ -1,0 +1,361 @@
+Games,Year,Participant,Gender,Event,Country,Distance,Time_S
+Rio di Janeiro 2016,2016,Ryan MURPHY,mens,100m-backstroke,USA,100,51.97
+Rio di Janeiro 2016,2016,Adam PEATY,mens,100m-breaststroke,GBR,100,57.13
+Rio di Janeiro 2016,2016,Joseph SCHOOLING,mens,100m-butterfly,SIN,100,50.39
+Rio di Janeiro 2016,2016,Kyle CHALMERS,mens,100m-freestyle,AUS,100,47.58
+Rio di Janeiro 2016,2016,Ryan MURPHY,mens,200m-backstroke,USA,200,113.62
+Rio di Janeiro 2016,2016,Dmitriy BALANDIN,mens,200m-breaststroke,KAZ,200,127.46
+Rio di Janeiro 2016,2016,Michael PHELPS,mens,200m-butterfly,USA,200,113.36
+Rio di Janeiro 2016,2016,Yang SUN,mens,200m-freestyle,CHN,200,104.65
+Rio di Janeiro 2016,2016,Michael PHELPS,mens,200m-individual-medley,USA,200,114.66
+Rio di Janeiro 2016,2016,Mack HORTON,mens,400m-freestyle,AUS,400,221.55
+Rio di Janeiro 2016,2016,Kosuke HAGINO,mens,400m-individual-medley,JPN,400,246.05
+Rio di Janeiro 2016,2016,United States,mens,4x100m-freestyle-relay,USA,400,189.92
+Rio di Janeiro 2016,2016,United States,mens,4x100m-medley-relay,USA,400,207.95
+Rio di Janeiro 2016,2016,United States,mens,4x200m-freestyle-relay,USA,800,420.66
+Rio di Janeiro 2016,2016,Anthony ERVIN,mens,50m-freestyle,USA,50,21.4
+London 2012,2012,Matthew GREVERS,men,100m-backstroke,USA,100,52.16
+London 2012,2012,Cameron VAN DER BURGH,men,100m-breaststroke,RSA,100,58.46
+London 2012,2012,Michael PHELPS,men,100m-butterfly,USA,100,51.21
+London 2012,2012,Nathan ADRIAN,men,100m-freestyle,USA,100,47.52
+London 2012,2012,Tyler CLARY,men,200m-backstroke,USA,200,113.41
+London 2012,2012,Daniel GYURTA,men,200m-breaststroke,HUN,200,127.28
+London 2012,2012,Chad LE CLOS,men,200m-butterfly,RSA,200,112.96
+London 2012,2012,Yannick AGNEL,men,200m-freestyle,FRA,200,103.14
+London 2012,2012,Michael PHELPS,men,200m-individual-medley,USA,200,114.27
+London 2012,2012,Yang SUN,men,400m-freestyle,CHN,400,220.14
+London 2012,2012,Ryan LOCHTE,men,400m-individual-medley,USA,400,245.18
+London 2012,2012,,men,4x100m-freestyle-relay,FRA,400,189.93
+London 2012,2012,,men,4x100m-medley-relay,USA,400,209.35
+London 2012,2012,,men,4x200m-freestyle-relay,USA,800,419.7
+London 2012,2012,Florent MANAUDOU,men,50m-freestyle,FRA,50,21.34
+Beijing 2008,2008,Aaron PEIRSOL,men,100m-backstroke,USA,100,52.54
+Beijing 2008,2008,Kosuke KITAJIMA,men,100m-breaststroke,JPN,100,58.91
+Beijing 2008,2008,Michael PHELPS,men,100m-butterfly,USA,100,50.58
+Beijing 2008,2008,Alain BERNARD,men,100m-freestyle,FRA,100,47.21
+Beijing 2008,2008,Ryan LOCHTE,men,200m-backstroke,USA,200,113.94
+Beijing 2008,2008,Kosuke KITAJIMA,men,200m-breaststroke,JPN,200,127.64
+Beijing 2008,2008,Michael PHELPS,men,200m-butterfly,USA,200,112.03
+Beijing 2008,2008,Michael PHELPS,men,200m-freestyle,USA,200,102.96
+Beijing 2008,2008,Michael PHELPS,men,200m-individual-medley,USA,200,114.23
+Beijing 2008,2008,Taehwan PARK,men,400m-freestyle,KOR,400,221.86
+Beijing 2008,2008,Michael PHELPS,men,400m-individual-medley,USA,400,243.84
+Beijing 2008,2008,,men,4x100m-freestyle-relay,USA,400,188.24
+Beijing 2008,2008,,men,4x100m-medley-relay,USA,400,209.34
+Beijing 2008,2008,,men,4x200m-freestyle-relay,USA,800,418.56
+Beijing 2008,2008,Cesar CIELO FILHO,men,50m-freestyle,BRA,50,21.3
+Athens 2004,2004,Aaron PEIRSOL,men,100m-backstroke,USA,100,54.06
+Athens 2004,2004,Kosuke KITAJIMA,men,100m-breaststroke,JPN,100,60.08
+Athens 2004,2004,Michael PHELPS,men,100m-butterfly,USA,100,51.25
+Athens 2004,2004,Pieter VAN DEN HOOGENBAND,men,100m-freestyle,NED,100,48.17
+Athens 2004,2004,Aaron PEIRSOL,men,200m-backstroke,USA,200,114.95
+Athens 2004,2004,Kosuke KITAJIMA,men,200m-breaststroke,JPN,200,129.44
+Athens 2004,2004,Michael PHELPS,men,200m-butterfly,USA,200,114.04
+Athens 2004,2004,Ian THORPE,men,200m-freestyle,AUS,200,104.71
+Athens 2004,2004,Michael PHELPS,men,200m-individual-medley,USA,200,117.14
+Athens 2004,2004,Ian THORPE,men,400m-freestyle,AUS,400,223.1
+Athens 2004,2004,Michael PHELPS,men,400m-individual-medley,USA,400,248.26
+Athens 2004,2004,,men,4x100m-freestyle-relay,RSA,400,193.17
+Athens 2004,2004,,men,4x100m-medley-relay,USA,400,210.68
+Athens 2004,2004,,men,4x200m-freestyle-relay,USA,800,427.33
+Athens 2004,2004,Gary Jr. HALL,men,50m-freestyle,USA,50,21.93
+Sydney 2000,2000,Lenny KRAYZELBURG,men,100m-backstroke,USA,100,53.72
+Sydney 2000,2000,Domenico FIORAVANTI,men,100m-breaststroke,ITA,100,60.46
+Sydney 2000,2000,Lars FRÖLANDER,men,100m-butterfly,SWE,100,52
+Sydney 2000,2000,Pieter VAN DEN HOOGENBAND,men,100m-freestyle,NED,100,48.3
+Sydney 2000,2000,Lenny KRAYZELBURG,men,200m-backstroke,USA,200,116.76
+Sydney 2000,2000,Domenico FIORAVANTI,men,200m-breaststroke,ITA,200,130.87
+Sydney 2000,2000,Tom MALCHOW,men,200m-butterfly,USA,200,115.35
+Sydney 2000,2000,Pieter VAN DEN HOOGENBAND,men,200m-freestyle,NED,200,105.35
+Sydney 2000,2000,Massimiliano ROSOLINO,men,200m-individual-medley,ITA,200,118.98
+Sydney 2000,2000,Ian THORPE,men,400m-freestyle,AUS,400,220.59
+Sydney 2000,2000,Tom DOLAN,men,400m-individual-medley,USA,400,251.76
+Sydney 2000,2000,,men,4x100m-freestyle-relay,AUS,400,193.67
+Sydney 2000,2000,,men,4x100m-medley-relay,USA,400,213.73
+Sydney 2000,2000,,men,4x200m-freestyle-relay,AUS,800,427.05
+Sydney 2000,2000,Gary Jr. HALL,men,50m-freestyle,USA,50,21.98
+Atlanta 1996,1996,Jeff ROUSE,men,100m-backstroke,USA,100,54.1
+Atlanta 1996,1996,Frederik DEBURGHGRAEVE,men,100m-breaststroke,BEL,100,60.65
+Atlanta 1996,1996,Denis PANKRATOV,men,100m-butterfly,RUS,100,52.27
+Atlanta 1996,1996,Aleksander POPOV,men,100m-freestyle,RUS,100,48.74
+Atlanta 1996,1996,Brad BRIDGEWATER,men,200m-backstroke,USA,200,118.54
+Atlanta 1996,1996,Norbet ROZSA,men,200m-breaststroke,HUN,200,132.57
+Atlanta 1996,1996,Denis PANKRATOV,men,200m-butterfly,RUS,200,116.51
+Atlanta 1996,1996,Danton LOADER,men,200m-freestyle,NZL,200,107.63
+Atlanta 1996,1996,Atilla CZENE,men,200m-individual-medley,HUN,200,119.91
+Atlanta 1996,1996,Danyon LOADER,men,400m-freestyle,NZL,400,227.97
+Atlanta 1996,1996,Tom DOLAN,men,400m-individual-medley,USA,400,254.9
+Atlanta 1996,1996,,men,4x100m-freestyle-relay,USA,400,195.41
+Atlanta 1996,1996,,men,4x100m-medley-relay,USA,400,214.84
+Atlanta 1996,1996,,men,4x200m-freestyle-relay,USA,800,434.84
+Atlanta 1996,1996,Aleksander POPOV,men,50m-freestyle,RUS,50,22.13
+Barcelona 1992,1992,Mark Tewksbury,men,100m-backstroke,CAN,100,53.98
+Barcelona 1992,1992,Nelson Diebel,men,100m-breaststroke,USA,100,61.5
+Barcelona 1992,1992,Pablo MORALES,men,100m-butterfly,USA,100,53.32
+Barcelona 1992,1992,Aleksander POPOV,men,100m-freestyle,EUN,100,49.02
+Barcelona 1992,1992,Martin López-Zubero,men,200m-backstroke,ESP,200,118.47
+Barcelona 1992,1992,Mike Barrowman,men,200m-breaststroke,USA,200,130.16
+Barcelona 1992,1992,Melvin Stewart,men,200m-butterfly,USA,200,116.26
+Barcelona 1992,1992,Evgueni SADOVYI,men,200m-freestyle,EUN,200,106.7
+Barcelona 1992,1992,Tamás Darnyi,men,200m-individual-medley,HUN,200,120.76
+Barcelona 1992,1992,Evgueni SADOVYI,men,400m-freestyle,EUN,400,225
+Barcelona 1992,1992,Tamás Darnyi,men,400m-individual-medley,HUN,400,254.23
+Barcelona 1992,1992,,men,4x100m-freestyle-relay,USA,400,196.74
+Barcelona 1992,1992,,men,4x100m-medley-relay,USA,400,216.93
+Barcelona 1992,1992,,men,4x200m-freestyle-relay,EUN,800,431.95
+Barcelona 1992,1992,Alexander Popov,men,50m-freestyle,EUN,50,21.91
+Seoul 1988,1988,Daichi SUZUKI,men,100m-backstroke,JPN,100,55.05
+Seoul 1988,1988,Adrian Moorhouse,men,100m-breaststroke,GBR,100,62.05
+Seoul 1988,1988,Anthony NESTY,men,100m-butterfly,SUR,100,53
+Seoul 1988,1988,Matthew BIONDI,men,100m-freestyle,USA,100,48.63
+Seoul 1988,1988,Igor Polyansky,men,200m-backstroke,URS,200,119.37
+Seoul 1988,1988,József Szabó,men,200m-breaststroke,HUN,200,133.52
+Seoul 1988,1988,Michael Gross,men,200m-butterfly,FRG,200,116.94
+Seoul 1988,1988,Duncan Armstrong,men,200m-freestyle,AUS,200,107.25
+Seoul 1988,1988,Tamás DARNYI,men,200m-individual-medley,HUN,200,120.17
+Seoul 1988,1988,Uwe Daßler,men,400m-freestyle,GDR,400,226.95
+Seoul 1988,1988,Tamás DARNYI,men,400m-individual-medley,HUN,400,254.75
+Seoul 1988,1988,,men,4x100m-freestyle-relay,USA,400,196.53
+Seoul 1988,1988,,men,4x100m-medley-relay,USA,400,216.93
+Seoul 1988,1988,,men,4x200m-freestyle-relay,USA,800,432.51
+Seoul 1988,1988,Matthew BIONDI,men,50m-freestyle,USA,50,22.14
+Los Angeles 1984,1984,Rick Carey,men,100m-backstroke,USA,100,55.69
+Los Angeles 1984,1984,Steve Lundquist,men,100m-breaststroke,USA,100,61.65
+Los Angeles 1984,1984,Michael Gross,men,100m-butterfly,FRG,100,53.08
+Los Angeles 1984,1984,Rowdy Gaines,men,100m-freestyle,USA,100,49.8
+Los Angeles 1984,1984,Rick Carey,men,200m-backstroke,USA,200,120.23
+Los Angeles 1984,1984,Victor Davis,men,200m-breaststroke,CAN,200,133.34
+Los Angeles 1984,1984,Jon SIEBEN,men,200m-butterfly,AUS,200,117.04
+Los Angeles 1984,1984,Michael Gross,men,200m-freestyle,FRG,200,107.44
+Los Angeles 1984,1984,Alex BAUMANN,men,200m-individual-medley,CAN,200,121.42
+Los Angeles 1984,1984,George DiCarlo,men,400m-freestyle,USA,400,231.23
+Los Angeles 1984,1984,Alex BAUMANN,men,400m-individual-medley,CAN,400,257.41
+Los Angeles 1984,1984,,men,4x100m-freestyle-relay,USA,400,199.03
+Los Angeles 1984,1984,,men,4x100m-medley-relay,USA,400,219.3
+Los Angeles 1984,1984,,men,4x200m-freestyle-relay,USA,800,435.69
+Los Angeles 1984,1984,,men,50m-freestyle,,50,
+Moscow 1980,1980,Bengt BARON,men,100m-backstroke,SWE,100,56.53
+Moscow 1980,1980,Duncan GOODHEW,men,100m-breaststroke,GBR,100,63.34
+Moscow 1980,1980,Pär ARVIDSSON,men,100m-butterfly,SWE,100,54.92
+Moscow 1980,1980,Jörg WOITHE,men,100m-freestyle,GDR,100,50.4
+Moscow 1980,1980,Sandor WLADAR,men,200m-backstroke,HUN,200,121.93
+Moscow 1980,1980,Robertas ?ULPA,men,200m-breaststroke,URS,200,135.85
+Moscow 1980,1980,Sergei FESENKO,men,200m-butterfly,URS,200,119.76
+Moscow 1980,1980,Sergey KOPLYAKOV,men,200m-freestyle,URS,200,109.81
+,1980,,men,200m-individual-medley,,200,
+Moscow 1980,1980,Vladimir SALNIKOV,men,400m-freestyle,URS,400,231.31
+Moscow 1980,1980,Aleksandr SIDORENKO,men,400m-individual-medley,URS,400,262.89
+,1980,,men,4x100m-freestyle-relay,,400,
+Moscow 1980,1980,,men,4x100m-medley-relay,AUS,400,225.7
+Moscow 1980,1980,,men,4x200m-freestyle-relay,URS,800,443.5
+,1980,,men,50m-freestyle,,50,
+Montreal 1976,1976,John NABER,men,100m-backstroke,USA,100,55.49
+Montreal 1976,1976,John HENCKEN,men,100m-breaststroke,USA,100,63.11
+Montreal 1976,1976,Matt VOGEL,men,100m-butterfly,USA,100,54.35
+Montreal 1976,1976,Jim MONTGOMERY,men,100m-freestyle,USA,100,49.99
+Montreal 1976,1976,John NABER,men,200m-backstroke,USA,200,119.19
+Montreal 1976,1976,David WILKIE,men,200m-breaststroke,GBR,200,135.11
+Montreal 1976,1976,Mike BRUNER,men,200m-butterfly,USA,200,119.23
+Montreal 1976,1976,Bruce FURNISS,men,200m-freestyle,USA,200,110.29
+,1976,,men,200m-individual-medley,,200,
+Montreal 1976,1976,Brian GOODELL,men,400m-freestyle,USA,400,231.93
+Montreal 1976,1976,Rod STRACHAN,men,400m-individual-medley,USA,400,263.68
+,1976,,men,4x100m-freestyle-relay,,400,
+Montreal 1976,1976,,men,4x100m-medley-relay,USA,400,222.22
+Montreal 1976,1976,,men,4x200m-freestyle-relay,USA,800,443.22
+,1976,,men,50m-freestyle,,50,
+Munich 1972,1972,Roland MATTHES,men,100m-backstroke,GDR,100,56.58
+Munich 1972,1972,Nobutaka TAGUCHI,men,100m-breaststroke,JPN,100,64.94
+Munich 1972,1972,Mark SPITZ,men,100m-butterfly,USA,100,54.27
+Munich 1972,1972,Mark SPITZ,men,100m-freestyle,USA,100,51.22
+Munich 1972,1972,Roland MATTHES,men,200m-backstroke,GDR,200,122.82
+Munich 1972,1972,John HENCKEN,men,200m-breaststroke,USA,200,141.55
+Munich 1972,1972,Mark SPITZ,men,200m-butterfly,USA,200,120.7
+Munich 1972,1972,Mark SPITZ,men,200m-freestyle,USA,200,112.78
+Munich 1972,1972,Gunnar LARSSON,men,200m-individual-medley,SWE,200,127.17
+Munich 1972,1972,Brad COOPER,men,400m-freestyle,AUS,400,240.27
+Munich 1972,1972,Gunnar LARSSON,men,400m-individual-medley,SWE,400,271.98
+Munich 1972,1972,,men,4x100m-freestyle-relay,USA,400,206.42
+Munich 1972,1972,,men,4x100m-medley-relay,USA,400,228.16
+Munich 1972,1972,,men,4x200m-freestyle-relay,USA,800,455.78
+,1972,,men,50m-freestyle,,50,
+Mexico 1968,1968,Roland MATTHES,men,100m-backstroke,GDR,100,58.7
+Mexico 1968,1968,Donald Ward Jr. MCKENZIE,men,100m-breaststroke,USA,100,67.7
+Mexico 1968,1968,Douglas Albert RUSSELL,men,100m-butterfly,USA,100,55.9
+Mexico 1968,1968,Mike WENDEN,men,100m-freestyle,AUS,100,52.2
+Mexico 1968,1968,Roland MATTHES,men,200m-backstroke,GDR,200,129.6
+Mexico 1968,1968,Felipe MUÑOZ,men,200m-breaststroke,MEX,200,148.7
+Mexico 1968,1968,Carl ROBIE,men,200m-butterfly,USA,200,128.7
+Mexico 1968,1968,Mike WENDEN,men,200m-freestyle,AUS,200,115.2
+Mexico 1968,1968,Charles HICKCOX,men,200m-individual-medley,USA,200,132
+Mexico 1968,1968,Michael BURTON,men,400m-freestyle,USA,400,249
+Mexico 1968,1968,Charles HICKCOX,men,400m-individual-medley,USA,400,288.4
+Mexico 1968,1968,,men,4x100m-freestyle-relay,USA,400,211.7
+Mexico 1968,1968,,men,4x100m-medley-relay,USA,400,234.9
+Mexico 1968,1968,,men,4x200m-freestyle-relay,USA,800,472.3
+,1968,,men,50m-freestyle,,50,
+,1964,,men,100m-backstroke,,100,
+,1964,,men,100m-breaststroke,,100,
+,1964,,men,100m-butterfly,,100,
+Tokyo 1964,1964,Don SCHOLLANDER,men,100m-freestyle,USA,100,53.4
+Tokyo 1964,1964,Jed GRAEF,men,200m-backstroke,USA,200,130.3
+Tokyo 1964,1964,Ian O'BRIEN,men,200m-breaststroke,AUS,200,147.8
+Tokyo 1964,1964,Kevin BERRY,men,200m-butterfly,AUS,200,126.6
+,1964,,men,200m-freestyle,,200,
+,1964,,men,200m-individual-medley,,200,
+Tokyo 1964,1964,Don SCHOLLANDER,men,400m-freestyle,USA,400,252.2
+Tokyo 1964,1964,Richard William ROTH,men,400m-individual-medley,USA,400,285.4
+Tokyo 1964,1964,,men,4x100m-freestyle-relay,USA,400,213.2
+Tokyo 1964,1964,,men,4x100m-medley-relay,USA,400,238.4
+Tokyo 1964,1964,,men,4x200m-freestyle-relay,USA,800,472.1
+,1964,,men,50m-freestyle,,50,
+Rome 1960,1960,David THEILE,men,100m-backstroke,AUS,100,61.9
+,1960,,men,100m-breaststroke,,100,
+,1960,,men,100m-butterfly,,100,
+Rome 1960,1960,John DEVITT,men,100m-freestyle,AUS,100,55.2
+,1960,,men,200m-backstroke,,200,
+Rome 1960,1960,Bill MULLIKEN,men,200m-breaststroke,USA,200,157.4
+Rome 1960,1960,Mike TROY,men,200m-butterfly,USA,200,132.8
+,1960,,men,200m-freestyle,,200,
+,1960,,men,200m-individual-medley,,200,
+Rome 1960,1960,Murray ROSE,men,400m-freestyle,AUS,400,258.3
+,1960,,men,400m-individual-medley,,400,
+,1960,,men,4x100m-freestyle-relay,,400,
+Rome 1960,1960,,men,4x100m-medley-relay,USA,400,245.4
+Rome 1960,1960,,men,4x200m-freestyle-relay,USA,800,490.2
+,1960,,men,50m-freestyle,,50,
+Melbourne / Stockholm 1956,1956,David THEILE,men,100m-backstroke,AUS,100,62.2
+,1956,,men,100m-breaststroke,,100,
+,1956,,men,100m-butterfly,,100,
+Melbourne / Stockholm 1956,1956,Jon HENRICKS,men,100m-freestyle,AUS,100,55.4
+,1956,,men,200m-backstroke,,200,
+Melbourne / Stockholm 1956,1956,Masaru FURUKAWA,men,200m-breaststroke,JPN,200,154.7
+Melbourne / Stockholm 1956,1956,William YORZYK,men,200m-butterfly,USA,200,139.3
+,1956,,men,200m-freestyle,,200,
+,1956,,men,200m-individual-medley,,200,
+Melbourne / Stockholm 1956,1956,Murray ROSE,men,400m-freestyle,AUS,400,267.3
+,1956,,men,400m-individual-medley,,400,
+,1956,,men,4x100m-freestyle-relay,,400,
+,1956,,men,4x100m-medley-relay,,400,
+Melbourne / Stockholm 1956,1956,,men,4x200m-freestyle-relay,AUS,800,503.6
+,1956,,men,50m-freestyle,,50,
+Helsinki 1952,1952,Yoshinobu OYAKAWA,men,100m-backstroke,USA,100,65.4
+,1952,,,100m-breaststroke,,,
+,1952,,,100m-butterfly,,,
+Helsinki 1952,1952,Clarke SCHOLES,men,100m-freestyle,USA,100,57.4
+,1952,,,200m-backstroke,,,
+Helsinki 1952,1952,John DAVIES,men,200m-breaststroke,AUS,200,154.4
+,1952,,,200m-butterfly,,,
+,1952,,,200m-freestyle,,,
+,1952,,,200m-individual-medley,,,
+Helsinki 1952,1952,Jean BOITEUX,men,400m-freestyle,FRA,400,270.7
+,1952,,,400m-individual-medley,,,
+,1952,,men,4x100m-freestyle-relay,,,
+Helsinki 1952,1952,,men,4x100m-medley-relay,USA,800,511.1
+,1952,,men,4x200m-freestyle-relay,,,
+,1952,,,50m-freestyle,,,
+London 1948,1948,Allen STACK,men,100m-backstroke,USA,100,66.4
+,1948,,men,100m-breaststroke,,100,
+,1948,,men,100m-butterfly,,100,
+London 1948,1948,Walter RIS,men,100m-freestyle,USA,100,57.3
+,1948,,men,200m-backstroke,,200,
+London 1948,1948,Joe VERDEUR,men,200m-breaststroke,USA,200,159.3
+,1948,,men,200m-butterfly,,200,
+,1948,,men,200m-freestyle,,200,
+,1948,,men,200m-individual-medley,,200,
+London 1948,1948,Bill SMITH,men,400m-freestyle,USA,400,281
+,1948,,men,400m-individual-medley,,400,
+,1948,,men,4x100m-freestyle-relay,,400,
+,1948,,men,4x100m-medley-relay,,400,
+London 1948,1948,,men,4x200m-freestyle-relay,USA,800,526
+,1948,,men,50m-freestyle,,50,
+Berlin 1936,1936,Adolph KIEFER,men,100m-backstroke,USA,100,65.9
+,1936,,men,100m-breaststroke,,100,
+,1936,,men,100m-butterfly,,100,
+Berlin 1936,1936,Ferenc CSÍK,men,100m-freestyle,HUN,100,57.6
+,1936,,men,200m-backstroke,,200,
+Berlin 1936,1936,Tetsuo HAMURO,men,200m-breaststroke,JPN,200,161.5
+,1936,,men,200m-butterfly,,200,
+,1936,,men,200m-freestyle,,200,
+,1936,,men,200m-individual-medley,,200,
+Berlin 1936,1936,Jack MEDICA,men,400m-freestyle,USA,400,284.5
+,1936,,men,400m-individual-medley,,400,
+,1936,,men,4x100m-freestyle-relay,,400,
+,1936,,men,4x100m-medley-relay,,400,
+Berlin 1936,1936,,men,4x200m-freestyle-relay,JPN,800,531.5
+,1936,,men,50m-freestyle,,50,
+Los Angeles 1932,1932,Masaji KIYOKAWA,men,100m-backstroke,JPN,100,68.6
+,1932,,men,100m-breaststroke,,100,
+,1932,,men,100m-butterfly,,100,
+Los Angeles 1932,1932,Yasuji MIYAZAKI,men,100m-freestyle,JPN,100,58.2
+,1932,,men,200m-backstroke,,200,
+Los Angeles 1932,1932,Yoshiyuki TSURUTA,men,200m-breaststroke,JPN,200,165.4
+,1932,,men,200m-butterfly,,200,
+,1932,,men,200m-freestyle,,200,
+,1932,,men,200m-individual-medley,,200,
+Los Angeles 1932,1932,Clarence CRABBE,men,400m-freestyle,USA,400,288.4
+,1932,,men,400m-individual-medley,,400,
+,1932,,men,4x100m-freestyle-relay,,400,
+,1932,,men,4x100m-medley-relay,,400,
+Los Angeles 1932,1932,,men,4x200m-freestyle-relay,JPN,800,538.4
+,1932,,men,50m-freestyle,,50,
+Amsterdam 1928,1928,George KOJAC,men,100m-backstroke,USA,100,68.2
+,1928,,men,100m-breaststroke,,100,
+,1928,,men,100m-butterfly,,100,
+Amsterdam 1928,1928,Johnny WEISSMULLER,men,100m-freestyle,USA,100,58.6
+,1928,,men,200m-backstroke,,200,
+Amsterdam 1928,1928,Yoshiyuki TSURUTA,men,200m-breaststroke,JPN,200,168.8
+,1928,,men,200m-butterfly,,200,
+,1928,,men,200m-freestyle,,200,
+,1928,,men,200m-individual-medley,,200,
+Amsterdam 1928,1928,Alberto ZORRILLA,men,400m-freestyle,ARG,400,301.6
+,1928,,men,400m-individual-medley,,400,
+,1928,,men,4x100m-freestyle-relay,,400,
+,1928,,men,4x100m-medley-relay,,400,
+Amsterdam 1928,1928,,men,4x200m-freestyle-relay,USA,800,576.2
+,1928,,men,50m-freestyle,,50,
+Paris 1924,1924,Warren Paoa KEALOHA,men,100m-backstroke,USA,100,73.2
+,1924,,men,100m-breaststroke,,100,
+,1924,,men,100m-butterfly,,100,
+Paris 1924,1924,Johnny WEISSMULLER,men,100m-freestyle,USA,100,59
+,1924,,men,200m-backstroke,,200,
+Paris 1924,1924,Robert SKELTON,men,200m-breaststroke,USA,200,176.6
+,1924,,men,200m-butterfly,,200,
+,1924,,men,200m-freestyle,,200,
+,1924,,men,200m-individual-medley,,200,
+Paris 1924,1924,Johnny WEISSMULLER,men,400m-freestyle,USA,400,304.2
+,1924,,men,400m-individual-medley,,400,
+,1924,,men,4x100m-freestyle-relay,,400,
+,1924,,men,4x100m-medley-relay,,400,
+Paris 1924,1924,,men,4x200m-freestyle-relay,USA,800,593.4
+,1924,,men,50m-freestyle,,50,
+Antwerp 1920,1920,Warren Paoa KEALOHA,men,100m-backstroke,USA,100,75.2
+,1920,,men,100m-breaststroke,,100,
+,1920,,men,100m-butterfly,,100,
+Antwerp 1920,1920,Duke KAHANAMOKU,men,100m-freestyle,USA,100,61.4
+,1920,,men,200m-backstroke,,200,
+Antwerp 1920,1920,Hakan MALMROT,men,200m-breaststroke,SWE,200,184.4
+,1920,,men,200m-butterfly,,200,
+,1920,,men,200m-freestyle,,200,
+,1920,,men,200m-individual-medley,,200,
+,1920,,men,400m-freestyle,,400,
+,1920,,men,400m-individual-medley,,400,
+,1920,,men,4x100m-freestyle-relay,,400,
+,1920,,men,4x100m-medley-relay,,400,
+Antwerp 1920,1920,,men,4x200m-freestyle-relay,USA,800,604.4
+,1920,,men,50m-freestyle,,50,
+Stockholm 1912,1912,Harry HEBNER,men,100m-backstroke,USA,100,81.2
+,1912,,men,100m-breaststroke,,100,
+,1912,,men,100m-butterfly,,100,
+Stockholm 1912,1912,Duke KAHANAMOKU,men,100m-freestyle,USA,100,63.4
+,1912,,men,200m-backstroke,,200,
+Stockholm 1912,1912,Walter BATHE,men,200m-breaststroke,GER,200,181.8
+,1912,,men,200m-butterfly,,200,
+,1912,,men,200m-freestyle,,200,
+,1912,,men,200m-individual-medley,,200,
+Stockholm 1912,1912,George HODGSON,men,400m-freestyle,CAN,400,324.4
+,1912,,men,400m-individual-medley,,400,
+,1912,,men,4x100m-freestyle-relay,,400,
+,1912,,men,4x100m-medley-relay,,400,
+Stockholm 1912,1912,,men,4x200m-freestyle-relay,ANZ,800,611.6
+,1912,,men,50m-freestyle,,50,

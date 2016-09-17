@@ -1,0 +1,21 @@
+Event,Gender,Participant,Country,Venue,Date,Distance,Time_S
+50m freestyle,womens,Britta Steffen,GER,Rome (ITA),2009-08-02,50,23.73
+100m freestyle,womens,Cate Campbell,AUS,Brisbane (AUS),2016-07-02,100,52.06
+200m freestyle,womens,Federica Pellegrini,ITA,Rome (ITA),2009-07-29,100,112.98
+400m freestyle,womens,Katie Ledecky,USA,Rio de Janeiro (BRA),2016-08-07,400,236.46
+800m freestyle,womens,Katie Ledecky,USA,Rio de Janeiro (BRA),2016-08-12,800,484.79
+1500m freestyle,womens,Katie Ledecky,USA,Kazan (RUS),2015-08-04,1500,925.48
+50m backstroke,womens,Jing Zhao,CHN,Rome (ITA),2009-07-30,50,27.06
+100m backstroke,womens,Gemma Spofforth,GBR,Rome (ITA),2009-07-28,100,58.12
+200m backstroke,womens,Missy Franklin,USA,London (GBR),2012-08-03,200,124.06
+50m breaststroke,womens,Ruta Meilutyte,LTU,Barcelona (ESP),2013-08-03,50,29.48
+100m breaststroke,womens,Ruta Meilutyte,LTU,Barcelona (ESP),2013-07-29,100,64.35
+200m breaststroke,womens,Rikke Moeller-Pedersen,DEN,Barcelona (ESP),2013-08-01,200,139.11
+50m butterfly,womens,Sarah Sjöström,SWE,Boras (SWE),2014-07-05,50,24.43
+100m butterfly,womens,Sarah Sjöström,SWE,Rio de Janeiro (BRA),2016-08-07,100,55.48
+200m butterfly,womens,Zige Liu,CHN,Jinan (CHN),2009-10-21,200,121.81
+200m ind. Medley,womens,Katinka Hosszu,HUN,Kazan (RUS),2015-08-03,200,126.12
+400m ind. Medley,womens,Katinka Hosszu,HUN,Rio de Janeiro (BRA),2016-08-06,400,266.36
+4x100m freestyle,womens,Australia,AUS,Rio de Janeiro (BRA),2016-08-06,400,210.65
+4x200m freestyle,womens,China,CHN,Rome (ITA),2009-07-30,800,462.08
+4x100m medley,womens,United States,USA,London (GBR),2012-08-04,100,232.05

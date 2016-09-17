@@ -1,0 +1,12 @@
+"Event","Gender","Participant","Country","Venue","Date","Distance","Time_S"
+"100m","mens","Usain Bolt","JAM","Berlin (WC)","2009-08-16",100,9.58
+"200m","mens","Usain Bolt","JAM","Berlin (WC)","2009-08-20",200,19.19
+"400m","mens","Wayde van Niekerk","RSA","Rio de Janeiro (OG)","2016-08-14",400,43.03
+"4x100m","mens","Nesta Carter,Michael Frater,Yohan Blake,Usain Bolt","JAM","London (OG)","2012-08-11",400,36.84
+"800m","mens","David Rudisha","KEN","London (OG)","2012-08-09",800,100.91
+"1500m","mens","Hicham El Guerrouj","MAR","Roma","1998-07-14",1500,206
+"5000m","mens","Kenenisa Bekele","ETH","Hengelo","2004-05-31",5000,757.35
+"10000m","mens","Kenenisa Bekele","ETH","Bruxelles","2005-08-26",10000,1577.53
+"4x400m","mens","Andrew Valmon,Quincy Watts,Harry Reynolds,Michael Johnson","USA","Stuttgart (WC)","1993-08-22",1600,174.29
+"marathon","mens","Dennis Kimetto ","KEN","Berlin ",2014-09-28,42195,7377
+"20km-walk","mens","Yasuke Suzuki","JPN","Nomi",2015-03-15,20000,4596

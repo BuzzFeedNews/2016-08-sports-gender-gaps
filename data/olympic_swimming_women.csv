@@ -1,0 +1,361 @@
+Games,Year,Participant,Gender,Event,Country,Distance,Time_S
+Rio di Janeiro 2016,2016,Katinka HOSSZU,womens,100m-backstroke,HUN,100,58.45
+Rio di Janeiro 2016,2016,Lillia KING,womens,100m-breaststroke,USA,100,64.93
+Rio di Janeiro 2016,2016,Sarah SJOSTROM,womens,100m-butterfly,SWE,100,55.48
+Rio di Janeiro 2016,2016,Simone MANUEL,womens,100m-freestyle,USA,100,52.7
+Rio di Janeiro 2016,2016,Madeline DIRADO,womens,200m-backstroke,USA,200,125.99
+Rio di Janeiro 2016,2016,Rie KANETO,womens,200m-breaststroke,JPN,200,140.3
+Rio di Janeiro 2016,2016,Mireia BELMONTE GARCIA,womens,200m-butterfly,ESP,200,124.85
+Rio di Janeiro 2016,2016,Kathleen LEDECKY,womens,200m-freestyle,USA,200,113.73
+Rio di Janeiro 2016,2016,Katinka HOSSZU,womens,200m-individual-medley,HUN,200,126.58
+Rio di Janeiro 2016,2016,Kathleen LEDECKY,womens,400m-freestyle,USA,400,236.46
+Rio di Janeiro 2016,2016,Katinka HOSSZU,womens,400m-individual-medley,HUN,400,266.36
+Rio di Janeiro 2016,2016,Australia,womens,4x100m-freestyle-relay,AUS,400,210.65
+Rio di Janeiro 2016,2016,United States,womens,4x100m-medley-relay,USA,400,233.13
+Rio di Janeiro 2016,2016,United States,womens,4x200m-freestyle-relay,USA,800,463.03
+Rio di Janeiro 2016,2016,Pernille BLUME,womens,50m-freestyle,DEN,50,24.07
+London 2012,2012,Missy FRANKLIN,women,100m-backstroke,USA,100,58.33
+London 2012,2012,Ruta MEILUTYTE,women,100m-breaststroke,LTU,100,65.47
+London 2012,2012,Dana VOLLMER,women,100m-butterfly,USA,100,55.98
+London 2012,2012,Ranomi KROMOWIDJOJO,women,100m-freestyle,NED,100,53
+London 2012,2012,Missy FRANKLIN,women,200m-backstroke,USA,200,124.06
+London 2012,2012,Rebecca SONI,women,200m-breaststroke,USA,200,139.59
+London 2012,2012,Liuyang JIAO,women,200m-butterfly,CHN,200,124.06
+London 2012,2012,Allison SCHMITT,women,200m-freestyle,USA,200,113.61
+London 2012,2012,Shiwen YE,women,200m-individual-medley,CHN,200,127.57
+London 2012,2012,Camille MUFFAT,women,400m-freestyle,FRA,400,241.45
+London 2012,2012,Shiwen YE,women,400m-individual-medley,CHN,400,268.43
+London 2012,2012,,women,4x100m-freestyle-relay,AUS,400,213.15
+London 2012,2012,,women,4x100m-medley-relay,USA,400,232.05
+London 2012,2012,,women,4x200m-freestyle-relay,USA,800,462.92
+London 2012,2012,Ranomi KROMOWIDJOJO,women,50m-freestyle,NED,50,24.05
+Beijing 2008,2008,Natalie COUGHLIN,women,100m-backstroke,USA,100,58.96
+Beijing 2008,2008,Leisel JONES,women,100m-breaststroke,AUS,100,65.17
+Beijing 2008,2008,Libby TRICKETT,women,100m-butterfly,AUS,100,56.73
+Beijing 2008,2008,Britta STEFFEN,women,100m-freestyle,GER,100,53.12
+Beijing 2008,2008,Kirsty COVENTRY,women,200m-backstroke,ZIM,200,125.24
+Beijing 2008,2008,Rebecca SONI,women,200m-breaststroke,USA,200,140.22
+Beijing 2008,2008,Zige LIU,women,200m-butterfly,CHN,200,124.18
+Beijing 2008,2008,Federica PELLEGRINI,women,200m-freestyle,ITA,200,114.82
+Beijing 2008,2008,Stephanie RICE,women,200m-individual-medley,AUS,200,128.45
+Beijing 2008,2008,Rebecca ADLINGTON,women,400m-freestyle,GBR,400,243.22
+Beijing 2008,2008,Stephanie RICE,women,400m-individual-medley,AUS,400,269.45
+Beijing 2008,2008,,women,4x100m-freestyle-relay,NED,400,213.76
+Beijing 2008,2008,,women,4x100m-medley-relay,AUS,400,232.69
+Beijing 2008,2008,,women,4x200m-freestyle-relay,AUS,800,464.31
+Beijing 2008,2008,Britta STEFFEN,women,50m-freestyle,GER,50,24.06
+Athens 2004,2004,Natalie COUGHLIN,women,100m-backstroke,USA,100,60.37
+Athens 2004,2004,Xuejuan LUO,women,100m-breaststroke,CHN,100,66.64
+Athens 2004,2004,Petria THOMAS,women,100m-butterfly,AUS,100,57.72
+Athens 2004,2004,Jodie HENRY,women,100m-freestyle,AUS,100,53.84
+Athens 2004,2004,Kirsty COVENTRY,women,200m-backstroke,ZIM,200,129.19
+Athens 2004,2004,Amanda BEARD,women,200m-breaststroke,USA,200,143.37
+Athens 2004,2004,Otylia JEDRZEJCZAK,women,200m-butterfly,POL,200,126.05
+Athens 2004,2004,Camelia POTEC,women,200m-freestyle,ROU,200,118.03
+Athens 2004,2004,Yana KLOCHKOVA,women,200m-individual-medley,UKR,200,131.14
+Athens 2004,2004,Laure MANAUDOU,women,400m-freestyle,FRA,400,245.34
+Athens 2004,2004,Yana KLOCHKOVA,women,400m-individual-medley,UKR,400,274.83
+Athens 2004,2004,,women,4x100m-freestyle-relay,AUS,400,215.94
+Athens 2004,2004,,women,4x100m-medley-relay,AUS,400,237.32
+Athens 2004,2004,,women,4x200m-freestyle-relay,USA,800,473.42
+Athens 2004,2004,Inge DE BRUIJN,women,50m-freestyle,NED,50,24.58
+Sydney 2000,2000,Diana MOCANU,women,100m-backstroke,ROU,100,60.21
+Sydney 2000,2000,Megan QUANN,women,100m-breaststroke,USA,100,67.05
+Sydney 2000,2000,Inge DE BRUIJN,women,100m-butterfly,NED,100,56.61
+Sydney 2000,2000,Inge DE BRUIJN,women,100m-freestyle,NED,100,53.83
+Sydney 2000,2000,Diana MOCANU,women,200m-backstroke,ROU,200,128.16
+Sydney 2000,2000,Ágnes KOVÁCS,women,200m-breaststroke,HUN,200,144.35
+Sydney 2000,2000,Misty HYMAN,women,200m-butterfly,USA,200,125.88
+Sydney 2000,2000,Susan O'NEILL,women,200m-freestyle,AUS,200,118.24
+Sydney 2000,2000,Yana KLOCHKOVA,women,200m-individual-medley,UKR,200,130.68
+Sydney 2000,2000,Brooke BENNETT,women,400m-freestyle,USA,400,245.8
+Sydney 2000,2000,Yana KLOCHKOVA,women,400m-individual-medley,UKR,400,273.59
+Sydney 2000,2000,,women,4x100m-freestyle-relay,USA,400,216.61
+Sydney 2000,2000,,women,4x100m-medley-relay,USA,400,238.3
+Sydney 2000,2000,,women,4x200m-freestyle-relay,USA,800,477.8
+Sydney 2000,2000,Inge DE BRUIJN,women,50m-freestyle,NED,50,24.32
+Atlanta 1996,1996,Beth BOTSFORD,women,100m-backstroke,USA,100,61.19
+Atlanta 1996,1996,Penelope HEYNS,women,100m-breaststroke,RSA,100,67.73
+Atlanta 1996,1996,Amy Van Dyken,women,100m-butterfly,USA,100,59.13
+Atlanta 1996,1996,Le JINGYI,women,100m-freestyle,CHN,100,54.5
+Atlanta 1996,1996,Krisztina Egerszegi,women,200m-backstroke,HUN,200,127.83
+Atlanta 1996,1996,Penelope Heyns,women,200m-breaststroke,RSA,200,145.41
+Atlanta 1996,1996,Susie O'Neill,women,200m-butterfly,AUS,200,127.76
+Atlanta 1996,1996,Claudia POLL,women,200m-freestyle,CRI,200,118.16
+Atlanta 1996,1996,Michelle Smith,women,200m-individual-medley,,200,133.93
+Atlanta 1996,1996,Michelle SMITH,women,400m-freestyle,IRL,400,247.25
+Atlanta 1996,1996,Michelle Smith,women,400m-individual-medley,,400,279.18
+Atlanta 1996,1996,,women,4x100m-freestyle-relay,USA,400,219.29
+Atlanta 1996,1996,,women,4x100m-medley-relay,USA,400,242.88
+Atlanta 1996,1996,,women,4x200m-freestyle-relay,USA,800,479.87
+Atlanta 1996,1996,Amy VAN DYKEN,women,50m-freestyle,USA,50,24.87
+Barcelona 1992,1992,Krisztina Egerszegi,women,100m-backstroke,HUN,100,60.68
+Barcelona 1992,1992,Yelena Rudkovskaya,women,100m-breaststroke,EUN,100,68
+Barcelona 1992,1992,Hong Qian,women,100m-butterfly,CHN,100,58.62
+Barcelona 1992,1992,Zhuang Yong,women,100m-freestyle,CHN,100,54.64
+Barcelona 1992,1992,Krisztina Egerszegi,women,200m-backstroke,HUN,200,127.06
+Barcelona 1992,1992,Kyoko IWASAKI,women,200m-breaststroke,JPN,200,146.65
+Barcelona 1992,1992,Summer SANDERS,women,200m-butterfly,USA,200,128.67
+Barcelona 1992,1992,Nicole HAISLETT,women,200m-freestyle,USA,200,117.9
+Barcelona 1992,1992,Lin Li,women,200m-individual-medley,CHN,200,131.65
+Barcelona 1992,1992,Dagmar HASE,women,400m-freestyle,GER,400,247.18
+Barcelona 1992,1992,Krisztina Egerszegi,women,400m-individual-medley,HUN,400,276.54
+Barcelona 1992,1992,,women,4x100m-freestyle-relay,USA,400,219.46
+Barcelona 1992,1992,,women,4x100m-medley-relay,USA,400,242.54
+Barcelona 1992,1992,,women,4x200m-freestyle-relay,,800,
+Barcelona 1992,1992,Yang Wenyi,women,50m-freestyle,CHN,50,24.47
+Seoul 1988,1988,Kristin Otto,women,100m-backstroke,GDR,100,60.89
+Seoul 1988,1988,Tanya Dangalakova,women,100m-breaststroke,BUL,100,67.95
+Seoul 1988,1988,Kristin OTTO,women,100m-butterfly,GDR,100,59
+Seoul 1988,1988,Kristin Otto,women,100m-freestyle,GDR,100,54.93
+Seoul 1988,1988,Krisztina Egerszegi,women,200m-backstroke,HUN,200,129.29
+Seoul 1988,1988,Silke Hörner,women,200m-breaststroke,GDR,200,146.71
+Seoul 1988,1988,Kathleen NORD,women,200m-butterfly,GDR,200,129.51
+Seoul 1988,1988,Heike FRIEDRICH,women,200m-freestyle,GDR,200,117.65
+Seoul 1988,1988,Daniela Hunger,women,200m-individual-medley,GDR,200,132.59
+Seoul 1988,1988,Janet Evans,women,400m-freestyle,USA,400,243.85
+Seoul 1988,1988,Janet Evans,women,400m-individual-medley,,400,277.76
+Seoul 1988,1988,,women,4x100m-freestyle-relay,GDR,400,220.63
+Seoul 1988,1988,,women,4x100m-medley-relay,GDR,400,243.74
+Seoul 1988,1988,,women,4x200m-freestyle-relay,,800,
+Seoul 1988,1988,Kristin Otto,women,50m-freestyle,GDR,50,25.49
+Los Angeles 1984,1984,Theresa Andrews,women,100m-backstroke,USA,100,62.55
+Los Angeles 1984,1984,Petra VAN STAVEREN,women,100m-breaststroke,NED,100,69.88
+Los Angeles 1984,1984,Mary T. Meagher,women,100m-butterfly,USA,100,59.26
+Los Angeles 1984,1984,Carrie Steinseifer,women,100m-freestyle,USA,100,55.92
+Los Angeles 1984,1984,Jolanda de Rover,women,200m-backstroke,NED,200,132.38
+Los Angeles 1984,1984,Anne Ottenbrite,women,200m-breaststroke,CAN,200,150.38
+Los Angeles 1984,1984,Mary T. Meagher,women,200m-butterfly,USA,200,126.9
+Los Angeles 1984,1984,Mary Wayte,women,200m-freestyle,USA,200,119.23
+Los Angeles 1984,1984,Tracy Caulkins,women,200m-individual-medley,USA,200,132.64
+Los Angeles 1984,1984,Tiffany Cohen,women,400m-freestyle,USA,400,247.1
+Los Angeles 1984,1984,Tracy Caulkins,women,400m-individual-medley,,400,279.24
+Los Angeles 1984,1984,,women,4x100m-freestyle-relay,USA,400,223.43
+Los Angeles 1984,1984,,women,4x100m-medley-relay,USA,400,248.34
+Los Angeles 1984,1984,,women,4x200m-freestyle-relay,,800,
+Los Angeles 1984,1984,,women,50m-freestyle,,50,
+Moscow 1980,1980,Rica REINISCH,women,100m-backstroke,GDR,100,60.86
+Moscow 1980,1980,Ute GEWENIGER,women,100m-breaststroke,GDR,100,70.22
+Moscow 1980,1980,Caren METSCHUCK,women,100m-butterfly,GDR,100,60.42
+Moscow 1980,1980,Barbara KRAUSE,women,100m-freestyle,GDR,100,54.79
+Moscow 1980,1980,Rica REINISCH,women,200m-backstroke,GDR,200,131.77
+Moscow 1980,1980,Lina KACHUSHITE,women,200m-breaststroke,URS,200,149.54
+Moscow 1980,1980,Ines GEISSLER,women,200m-butterfly,GDR,200,130.44
+Moscow 1980,1980,Barbara KRAUSE,women,200m-freestyle,GDR,200,118.33
+Moscow 1980,1980,,,200m-individual-medley,,200,
+Moscow 1980,1980,Ines DIERS,women,400m-freestyle,GDR,400,248.76
+Moscow 1980,1980,Petra SCHNEIDER,women,400m-individual-medley,GDR,400,276.29
+Moscow 1980,1980,,women,4x100m-freestyle-relay,GDR,400,222.71
+Moscow 1980,1980,,women,4x100m-medley-relay,GDR,400,246.67
+Moscow 1980,1980,,,4x200m-freestyle-relay,,800,
+Moscow 1980,1980,,,50m-freestyle,,50,
+Montreal 1976,1976,Ulrike RICHTER,women,100m-backstroke,GDR,100,61.83
+Montreal 1976,1976,Hannelore ANKE,women,100m-breaststroke,GDR,100,71.16
+Montreal 1976,1976,Kornelia ENDER,women,100m-butterfly,GDR,100,60.13
+Montreal 1976,1976,Kornelia ENDER,women,100m-freestyle,GDR,100,55.65
+Montreal 1976,1976,Ulrike RICHTER,women,200m-backstroke,GDR,200,133.43
+Montreal 1976,1976,Marina KOSHEVAYA,women,200m-breaststroke,URS,200,153.35
+Montreal 1976,1976,Andrea POLLACK,women,200m-butterfly,GDR,200,131.41
+Montreal 1976,1976,Kornelia ENDER,women,200m-freestyle,GDR,200,119.26
+Montreal 1976,1976,,,200m-individual-medley,,200,
+Montreal 1976,1976,Petra THÜMER,women,400m-freestyle,GDR,400,249.89
+Montreal 1976,1976,Ulrike TAUBER,women,400m-individual-medley,GDR,400,282.77
+Montreal 1976,1976,,women,4x100m-freestyle-relay,USA,400,224.82
+Montreal 1976,1976,,women,4x100m-medley-relay,GDR,400,247.95
+Montreal 1976,1976,,,4x200m-freestyle-relay,,800,
+Montreal 1976,1976,,,50m-freestyle,,50,
+Munich 1972,1972,Melissa BELOTE,women,100m-backstroke,USA,100,65.78
+Munich 1972,1972,Catherine L. CARR,women,100m-breaststroke,USA,100,73.58
+Munich 1972,1972,Mayumi AOKI,women,100m-butterfly,JPN,100,63.34
+Munich 1972,1972,Sandra NEILSON,women,100m-freestyle,USA,100,58.59
+Munich 1972,1972,Melissa BELOTE,women,200m-backstroke,USA,200,139.19
+Munich 1972,1972,Beverly WHITFIELD,women,200m-breaststroke,AUS,200,161.71
+Munich 1972,1972,Karen MOE,women,200m-butterfly,USA,200,135.57
+Munich 1972,1972,Shane GOULD,women,200m-freestyle,AUS,200,123.56
+Munich 1972,1972,Shane GOULD,women,200m-individual-medley,AUS,200,143.07
+Munich 1972,1972,Shane GOULD,women,400m-freestyle,AUS,400,259.04
+Munich 1972,1972,Gail NEALL,women,400m-individual-medley,AUS,400,302.97
+Munich 1972,1972,,women,4x100m-freestyle-relay,USA,400,235.19
+Munich 1972,1972,,women,4x100m-medley-relay,USA,400,260.75
+,1972,,,4x200m-freestyle-relay,,800,
+,1972,,,50m-freestyle,,50,
+Mexico 1968,1968,Kaye HALL,women,100m-backstroke,USA,100,66.2
+Mexico 1968,1968,Djurdjica BJEDOV,women,100m-breaststroke,YUG,100,75.8
+Mexico 1968,1968,Lynette MCCLEMENTS,women,100m-butterfly,AUS,100,65.5
+Mexico 1968,1968,Jan HENNE,women,100m-freestyle,USA,100,60
+Mexico 1968,1968,Lillian Debra WATSON,women,200m-backstroke,USA,200,144.8
+Mexico 1968,1968,Sharon WICHMAN,women,200m-breaststroke,USA,200,164.4
+Mexico 1968,1968,Ada KOK,women,200m-butterfly,NED,200,144.7
+Mexico 1968,1968,Debbie MEYER,women,200m-freestyle,USA,200,130.5
+Mexico 1968,1968,Claudia KOLB,women,200m-individual-medley,USA,200,144.7
+Mexico 1968,1968,Debbie MEYER,women,400m-freestyle,USA,400,271.8
+Mexico 1968,1968,Claudia KOLB,women,400m-individual-medley,USA,400,308.5
+Mexico 1968,1968,,women,4x100m-freestyle-relay,USA,400,242.5
+Mexico 1968,1968,,women,4x100m-medley-relay,USA,400,268.3
+Mexico 1968,1968,,,4x200m-freestyle-relay,,800,
+Mexico 1968,1968,,,50m-freestyle,,50,
+Tokyo 1964,1964,Cathy FERGUSON,women,100m-backstroke,USA,100,67.7
+Tokyo 1964,1964,,,100m-breaststroke,,100,
+Tokyo 1964,1964,Sharon STOUDER,women,100m-butterfly,USA,100,64.7
+Tokyo 1964,1964,Dawn FRASER,women,100m-freestyle,AUS,100,59.5
+Tokyo 1964,1964,,,200m-backstroke,,200,
+Tokyo 1964,1964,Galina PROZUMENSHCHIKOVA,women,200m-breaststroke,URS,200,166.4
+Tokyo 1964,1964,,,200m-butterfly,,200,
+Tokyo 1964,1964,,,200m-freestyle,,200,
+Tokyo 1964,1964,,,200m-individual-medley,,200,
+Tokyo 1964,1964,Virginia DUENKEL,women,400m-freestyle,USA,400,283.3
+Tokyo 1964,1964,Donna DE VARONA,women,400m-individual-medley,USA,400,318.7
+Tokyo 1964,1964,,women,4x100m-freestyle-relay,USA,400,243.8
+Tokyo 1964,1964,,women,4x100m-medley-relay,USA,400,273.9
+Tokyo 1964,1964,,,4x200m-freestyle-relay,,800,
+Tokyo 1964,1964,,,50m-freestyle,,50,
+Rome 1960,1960,Lynn BURKE,women,100m-backstroke,USA,100,69.3
+Rome 1960,1960,,,100m-breaststroke,,100,
+Rome 1960,1960,Carolyn SCHULER,women,100m-butterfly,USA,100,69.5
+Rome 1960,1960,Dawn FRASER,women,100m-freestyle,AUS,100,61.2
+Rome 1960,1960,,,200m-backstroke,,200,
+Rome 1960,1960,Anita LONSBROUGH,women,200m-breaststroke,GBR,200,169.5
+Rome 1960,1960,,,200m-butterfly,,200,
+Rome 1960,1960,,,200m-freestyle,,200,
+Rome 1960,1960,,,200m-individual-medley,,200,
+Rome 1960,1960,Chris VON SALTZA,women,400m-freestyle,USA,400,290.6
+Rome 1960,1960,,,400m-individual-medley,,400,
+Rome 1960,1960,,women,4x100m-freestyle-relay,USA,400,248.9
+Rome 1960,1960,,women,4x100m-medley-relay,USA,400,281.1
+Rome 1960,1960,,,4x200m-freestyle-relay,,800,
+Rome 1960,1960,,,50m-freestyle,,50,
+Melbourne / Stockholm 1956,1956,Judith GRINHAM,women,100m-backstroke,GBR,100,72.9
+Melbourne / Stockholm 1956,1956,,,100m-breaststroke,,100,
+Melbourne / Stockholm 1956,1956,Shelley MANN,women,100m-butterfly,USA,100,71
+Melbourne / Stockholm 1956,1956,Dawn FRASER,women,100m-freestyle,AUS,100,62
+Melbourne / Stockholm 1956,1956,,,200m-backstroke,,200,
+Melbourne / Stockholm 1956,1956,Ursula HAPPE,women,200m-breaststroke,EUA,200,173.1
+Melbourne / Stockholm 1956,1956,,,200m-butterfly,,200,
+Melbourne / Stockholm 1956,1956,,,200m-freestyle,,200,
+Melbourne / Stockholm 1956,1956,,,200m-individual-medley,,200,
+Melbourne / Stockholm 1956,1956,Lorraine CRAPP,women,400m-freestyle,AUS,400,294.6
+Melbourne / Stockholm 1956,1956,,,400m-individual-medley,,400,
+Melbourne / Stockholm 1956,1956,,women,4x100m-freestyle-relay,AUS,400,257.1
+Melbourne / Stockholm 1956,1956,,,4x100m-medley-relay,,400,
+Melbourne / Stockholm 1956,1956,,,4x200m-freestyle-relay,,800,
+Melbourne / Stockholm 1956,1956,,,50m-freestyle,,50,
+Helsinki 1952,1952,Joan HARRISON,women,100m-backstroke,RSA,100,74.3
+Helsinki 1952,1952,,,100m-breaststroke,,100,
+Helsinki 1952,1952,,,100m-butterfly,,100,
+Helsinki 1952,1952,Katalin SZOKE,women,100m-freestyle,HUN,100,66.8
+Helsinki 1952,1952,,,200m-backstroke,,200,
+Helsinki 1952,1952,Eva SZEKELY,women,200m-breaststroke,HUN,200,171.7
+Helsinki 1952,1952,,,200m-butterfly,,200,
+Helsinki 1952,1952,,,200m-freestyle,,200,
+Helsinki 1952,1952,,,200m-individual-medley,,200,
+Helsinki 1952,1952,Valéria GYENGE,women,400m-freestyle,HUN,400,312.1
+Helsinki 1952,1952,,,400m-individual-medley,,400,
+Helsinki 1952,1952,,women,4x100m-freestyle-relay,HUN,400,264.4
+Helsinki 1952,1952,,,4x100m-medley-relay,,400,
+Helsinki 1952,1952,,,4x200m-freestyle-relay,,800,
+Helsinki 1952,1952,,,50m-freestyle,,50,
+London 1948,1948,Karen Margrethe HARUP,women,100m-backstroke,DEN,100,74.4
+London 1948,1948,,,100m-breaststroke,,100,
+London 1948,1948,,,100m-butterfly,,100,
+London 1948,1948,Greta ANDERSEN,women,100m-freestyle,DEN,100,66.3
+London 1948,1948,,,200m-backstroke,,200,
+London 1948,1948,Nel VAN VLIET,women,200m-breaststroke,NED,200,177.2
+London 1948,1948,,,200m-butterfly,,200,
+London 1948,1948,,,200m-freestyle,,200,
+London 1948,1948,,,200m-individual-medley,,200,
+London 1948,1948,Ann CURTIS,women,400m-freestyle,USA,400,317.8
+London 1948,1948,,,400m-individual-medley,,400,
+London 1948,1948,,women,4x100m-freestyle-relay,USA,400,269.2
+London 1948,1948,,,4x100m-medley-relay,,400,
+London 1948,1948,,,4x200m-freestyle-relay,,800,
+London 1948,1948,,,50m-freestyle,,50,
+Berlin 1936,1936,Nida SENFF,women,100m-backstroke,NED,100,78.9
+Berlin 1936,1936,,,100m-breaststroke,,100,
+Berlin 1936,1936,,,100m-butterfly,,100,
+Berlin 1936,1936,Hendrika MASTENBROEK,women,100m-freestyle,NED,100,65.9
+Berlin 1936,1936,,,200m-backstroke,,200,
+Berlin 1936,1936,Hideko MAEHATA,women,200m-breaststroke,JPN,200,183.6
+Berlin 1936,1936,,,200m-butterfly,,200,
+Berlin 1936,1936,,,200m-freestyle,,200,
+Berlin 1936,1936,,,200m-individual-medley,,200,
+Berlin 1936,1936,Hendrika MASTENBROEK,women,400m-freestyle,NED,400,326.4
+Berlin 1936,1936,,,400m-individual-medley,,400,
+Berlin 1936,1936,,women,4x100m-freestyle-relay,NED,400,276
+Berlin 1936,1936,,,4x100m-medley-relay,,400,
+Berlin 1936,1936,,,4x200m-freestyle-relay,,800,
+Berlin 1936,1936,,,50m-freestyle,,50,
+Los Angeles 1932,1932,Eleanor HOLM,women,100m-backstroke,USA,100,79.4
+Los Angeles 1932,1932,,,100m-breaststroke,,100,
+Los Angeles 1932,1932,,,100m-butterfly,,100,
+Los Angeles 1932,1932,Helene MADISON,women,100m-freestyle,USA,100,66.8
+Los Angeles 1932,1932,,,200m-backstroke,,200,
+Los Angeles 1932,1932,Clare DENNIS,women,200m-breaststroke,AUS,200,186.3
+Los Angeles 1932,1932,,,200m-butterfly,,200,
+Los Angeles 1932,1932,,,200m-freestyle,,200,
+Los Angeles 1932,1932,,,200m-individual-medley,,200,
+Los Angeles 1932,1932,Helene MADISON,women,400m-freestyle,USA,400,328.5
+Los Angeles 1932,1932,,,400m-individual-medley,,400,
+Los Angeles 1932,1932,,women,4x100m-freestyle-relay,USA,400,278
+Los Angeles 1932,1932,,,4x100m-medley-relay,,400,
+Los Angeles 1932,1932,,,4x200m-freestyle-relay,,800,
+Los Angeles 1932,1932,,,50m-freestyle,,50,
+Amsterdam 1928,1928,Maria Johanna PHILIPSEN-BRAUN,women,100m-backstroke,NED,100,82
+Amsterdam 1928,1928,,,100m-breaststroke,,100,
+Amsterdam 1928,1928,,,100m-butterfly,,100,
+Amsterdam 1928,1928,Albina OSIPOWICH,women,100m-freestyle,USA,100,71
+Amsterdam 1928,1928,,,200m-backstroke,,200,
+Amsterdam 1928,1928,Hilde SCHRADER,women,200m-breaststroke,GER,200,192.6
+Amsterdam 1928,1928,,,200m-butterfly,,200,
+Amsterdam 1928,1928,,,200m-freestyle,,200,
+Amsterdam 1928,1928,,,200m-individual-medley,,200,
+Amsterdam 1928,1928,Martha NORELIUS,women,400m-freestyle,USA,400,342.8
+Amsterdam 1928,1928,,,400m-individual-medley,,400,
+Amsterdam 1928,1928,,women,4x100m-freestyle-relay,USA,400,287.6
+Amsterdam 1928,1928,,,4x100m-medley-relay,,400,
+Amsterdam 1928,1928,,,4x200m-freestyle-relay,,800,
+Amsterdam 1928,1928,,,50m-freestyle,,50,
+Paris 1924,1924,Sybil BAUER,women,100m-backstroke,USA,100,83.2
+Paris 1924,1924,,,100m-breaststroke,,100,
+Paris 1924,1924,,,100m-butterfly,,100,
+Paris 1924,1924,Ethel LACKIE,women,100m-freestyle,USA,100,72.4
+Paris 1924,1924,,,200m-backstroke,,200,
+Paris 1924,1924,Lucy MORTON,women,200m-breaststroke,GBR,200,213.2
+Paris 1924,1924,,,200m-butterfly,,200,
+Paris 1924,1924,,,200m-freestyle,,200,
+Paris 1924,1924,,,200m-individual-medley,,200,
+Paris 1924,1924,Martha NORELIUS,women,400m-freestyle,USA,400,362.2
+Paris 1924,1924,,,400m-individual-medley,,400,
+Paris 1924,1924,,women,4x100m-freestyle-relay,USA,400,298.8
+Paris 1924,1924,,,4x100m-medley-relay,,400,
+Paris 1924,1924,,,4x200m-freestyle-relay,,800,
+Paris 1924,1924,,,50m-freestyle,,50,
+Antwerp 1920,1920,,,100m-backstroke,,100,
+Antwerp 1920,1920,,,100m-breaststroke,,100,
+Antwerp 1920,1920,,,100m-butterfly,,100,
+Antwerp 1920,1920,Ethelda BLEIBTREY,women,100m-freestyle,USA,100,73.6
+Antwerp 1920,1920,,,200m-backstroke,,200,
+Antwerp 1920,1920,,,200m-breaststroke,,200,
+Antwerp 1920,1920,,,200m-butterfly,,200,
+Antwerp 1920,1920,,,200m-freestyle,,200,
+Antwerp 1920,1920,,,200m-individual-medley,,200,
+Antwerp 1920,1920,,,400m-freestyle,,400,
+Antwerp 1920,1920,,,400m-individual-medley,,400,
+Antwerp 1920,1920,,women,4x100m-freestyle-relay,USA,400,311.6
+Antwerp 1920,1920,,,4x100m-medley-relay,,400,
+Antwerp 1920,1920,,,4x200m-freestyle-relay,,800,
+Antwerp 1920,1920,,,50m-freestyle,,50,
+Stockholm 1912,1912,,,100m-backstroke,,100,
+Stockholm 1912,1912,,,100m-breaststroke,,100,
+Stockholm 1912,1912,,,100m-butterfly,,100,
+Stockholm 1912,1912,Fanny DURACK,women,100m-freestyle,ANZ,100,82.2
+Stockholm 1912,1912,,,200m-backstroke,,200,
+Stockholm 1912,1912,,,200m-breaststroke,,200,
+Stockholm 1912,1912,,,200m-butterfly,,200,
+Stockholm 1912,1912,,,200m-freestyle,,200,
+Stockholm 1912,1912,,,200m-individual-medley,,200,
+Stockholm 1912,1912,,,400m-freestyle,,400,
+Stockholm 1912,1912,,,400m-individual-medley,,400,
+Stockholm 1912,1912,,women,4x100m-freestyle-relay,GBR,400,352.8
+Stockholm 1912,1912,,,4x100m-medley-relay,,400,
+Stockholm 1912,1912,,,4x200m-freestyle-relay,,800,
+Stockholm 1912,1912,,,50m-freestyle,,50,
