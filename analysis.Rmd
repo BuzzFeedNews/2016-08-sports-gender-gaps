@@ -13,11 +13,11 @@ Gender gaps are given as percentages by which the best woman's performance lags 
 
 **For races:**
 
-`100 - (Men's speed in meters per second / women's speed in meters * 100)`
+`100 - (100 * Men's speed in meters per second / women's speed in meters)`
 
 **For field events:**
 
-`100 - (Men's distance or height in meters / women's distance or height in meters * 100)`
+`100 - (100 * Men's distance or height in meters / women's distance or height in meters)`
 
 The calculated gender gaps all scale between between 0% and a theoretical maximum of 100%.
 
